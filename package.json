@@ -1,0 +1,22 @@
+{
+    "name": "html-course",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "bootstrap": "^4.5.0",
+        "jquery": "^3.5.1"
+    },
+    "devDependencies": {},
+    "styles": ["styles.css", "node_modules/bootstrap/dist/css/bootstrap.min.css"],
+
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "styles": "node_modules/jquery/dist/jquery.min.js",
+        "bootstrap": "node_modules/bootstrap/dist/js/bootstrap.min.js"
+
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

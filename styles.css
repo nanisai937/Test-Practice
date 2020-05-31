@@ -1,0 +1,6 @@
+form input,
+textarea,
+button {
+    display: block;
+    margin: 30px;
+}
